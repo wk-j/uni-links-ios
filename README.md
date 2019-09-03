@@ -7,5 +7,5 @@ flutter build ios
 flutter emulators --launch apple_ios_simulator
 flutter run
 
-/usr/bin/xcrun simctl openurl booted  https://1e512c4e.ngrok.io/signin
+/usr/bin/xcrun simctl openurl booted  https://bd1c8cc6.ngrok.io/signin
 ```
